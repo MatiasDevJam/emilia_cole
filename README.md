@@ -1,1 +1,3 @@
-·EJERCICIO HTML & CSS
+#EJERCICIO HTML & CSS
+
+<img src = "img/thumb.png">
